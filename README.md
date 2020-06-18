@@ -1,0 +1,2 @@
+# FizzBuzz
+FizzBuzz is a game where a group of people count up from one. On a selected multiple, the word 'Fizz' is spoken in place of the number. On another selected multiple, the word 'Buzz' is spoken in place of the number. If a number is a multiple of both selected numbers, then the word 'FizzBuzz' is said. This converts that game into a digital format. Counts up from one selected number to another selected number, but replaces various amounts of selected numbers' multiples with distinct words e.g Fizz and Buzz.
